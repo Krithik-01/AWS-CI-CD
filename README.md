@@ -18,6 +18,4 @@ This Django application is a **To-Do** list where users can add, update, and del
 - **AWS CodePipeline** - For setting up continuous integration and continuous deployment (CI/CD).
 - **GitHub** - To store the project repository.
 
-## Project Structure:
-Here’s an overview of the project structure:
 
